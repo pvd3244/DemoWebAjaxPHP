@@ -1,0 +1,67 @@
+.icon{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.icon-toggle{
+    background-image: url(/ui/assets/img/toggle.png);
+}
+.icon-menu{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+.icon-general{
+    background-image: url(/ui/assets/icon/dashboard.png);
+}
+.icon-report{
+    background-image: url(/ui/assets/icon/report.png);
+}
+.icon-employee{
+    background-image: url(/ui/assets/icon/dic-employee.png);
+}
+.icon-setting{
+    background-image: url(/ui/assets/icon/setting.png);
+}
+.icon-user{
+    background-image: url(/ui/assets/icon/avatar-default.png);
+}
+.icon-option{
+    background-image: url(/ui/assets/icon/option.png);
+}
+.icon-fisrt-page{
+    background-image: url(/ui/assets/icon/btn-firstpage.svg);
+}
+.icon-last-page{
+    background-image: url(/ui/assets/icon/btn-lastpage.svg);
+}
+.icon-next-page{
+    background-image: url(/ui/assets/icon/btn-next-page.svg);
+}
+.icon-prev-page{
+    background-image: url(/ui/assets/icon/btn-prev-page.svg);
+}
+.icon-add{
+    background-image: url(/ui/assets/icon/add.png);
+}
+.icon-delete{
+    background-image: url(/ui/assets/icon/delete.png);
+}
+.icon-replication{
+    background-image: url(/ui/assets/icon/duplicate.png);
+}
+.icon-refresh{
+    background-image: url(/ui/assets/icon/refresh.png);
+}
+.icon-x{
+    background-image: url(/ui/assets/icon/x.svg);
+}
+.icon-warring{
+    background-image: url(/ui/assets/icon/warning.png);
+}
+.icon-save{
+    background-image: url(/ui/assets/icon/save-32.png);
+}
+.img-employee{
+    background-image: url(/ui/assets/img/default-avatar.jpg);
+}
